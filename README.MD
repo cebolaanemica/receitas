@@ -4,6 +4,4 @@
 
 - Como tiltar um assassino
 - Como tiltar um _*adc*_
-- Como tiltar um *tank*
-- Como tiltar um _sup_
-- Como tiltar um mago
+- Como tiltar um *t
